@@ -1,3 +1,5 @@
+// C Program To Print The Table Of A Given Number
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
